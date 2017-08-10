@@ -1,2 +1,2 @@
-# -HackerRank-Python-Grading-Students
+# [HackerRank][Python] Grading Students
 https://www.hackerrank.com/challenges/grading/problem
